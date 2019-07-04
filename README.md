@@ -22,7 +22,7 @@ Division_property_recovery_J_t_our_method.zip can be used to acquire all t-degre
 
 (6)Table-9
 ----
-24 cubes that can be used to attack MORUS-640 are listed in Table-9
+24 cubes that can be used to attack MORUS-640 are listed in Table-9.pdf
 
 
 
