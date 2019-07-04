@@ -19,6 +19,10 @@ Division_property_recovery_J_t_Wang_method.zip can be used to acquire all t-degr
 ====
 Division_property_recovery_J_t_our_method.zip can be used to acquire all t-degree monomials involved in the superpoly based on our method
 
+(6)Table-9
+====
+24 cubes that can be used to attack MORUS-640 are listed in Table-9
+
 
 
 
